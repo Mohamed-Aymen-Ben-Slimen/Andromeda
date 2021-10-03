@@ -39,11 +39,11 @@ const TypesENUM = {
 }
 
 const ColorsEnum = {
-	ActiveSatellite: Cesium.Color.DARKORANGE,
-	InactiveSatellite: Cesium.Color.CYAN,
-	RocketBody: Cesium.Color.MEDIUMORCHID,
-	Debris: Cesium.Color.GRAY,
-	Uncategorized: Cesium.Color.DEEPPINK
+	ActiveSatellite: Cesium.Color.GREEN,
+	InactiveSatellite: Cesium.Color.RED,
+	RocketBody: Cesium.Color.ORANGE,
+	Debris: Cesium.Color.BLUE,
+	Uncategorized: Cesium.Color.GRAY
 }
 
 function eccentricAnomaly(mean, ecc, tol, maxIter)

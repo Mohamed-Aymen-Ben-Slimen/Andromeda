@@ -1,6 +1,1 @@
-This folder contains the source code for the AstriaGraph web
-interface. The folder structure is follows.
-
-.      : Browser startup page, JavaScript source code, and JQuery.
-cesium : Cesium widgets, source files, and resources.
-images : Astria logo and JQuery images.
+This folder contains the source code for the Andromeda web
